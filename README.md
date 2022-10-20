@@ -1,6 +1,7 @@
+<center>
 <div style="text-align: justify;">
 <h1>Salve Salve </h1>
-<p>Edson Silva, Gaucho de Porto Alegre, refugiado do frio em Santa Catarina, passei por muitas 'ocupações' e na versão 4.0 em diante resolvi me 'redesenhar' dedicando a um hobby antigo, programação, em um foco sério de estudo para uma nova carreira!</p>
+<p>Edson Silva, Gaucho de Porto Alegre, refugiado do frio em Santa Catarina, passei por muitas 'ocupações' e na versão 4.0 em diante resolvi me 'redesenhar' dedicando a um hobby antigo, programação, um foco sério de estudo para uma nova carreira!</p>
 <p>Me encanta a área de desenvolvimento Back End, no entanto, gostaria de aprender Front-End visando virar Fullstack.</p>
 </div>
 
@@ -24,13 +25,6 @@
 <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 </div>
-<!--
-<div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/edsonservi">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=edsonservi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonservi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
--->
 
 <div style="text-align: center;">
 <h2>Contatos</h2>
@@ -40,3 +34,4 @@
  
 ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 </div>
+</center>
