@@ -19,21 +19,13 @@
 <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
-
+<!--
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/edsonservi">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=edsonservi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonservi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<div style="display: inline_block"><br>
-
-  
-  
-</div>
-
-##
-
+->
 <div> 
 <a href = "mailto:edsonservi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/edsonservi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
