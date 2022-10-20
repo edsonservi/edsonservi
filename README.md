@@ -4,14 +4,18 @@
 <p>Me encanta a área de desenvolvimento Back End, no entanto, gostaria de aprender Front-End visando virar Fullstack.</p>
 </div>
 
-<div align='center' style="text-align: center;">
+<div align='center'>
 <p>Atualmente estudo <strong><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></strong> com foco nas seguintes bibliotecas:</p>
+<br />
 <p>
 <img align="center" alt="Django" height="30" width="40" src="https://cdn2.hubspot.net/hubfs/3885898/django.png" />
 <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="center" alt="Edson-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </p>
+<br />
+<br />
 <p>E além de <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> também estudo e tenho conhecimento das seguintes tecnologias:</p>
+<br />
 <p>
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -25,7 +29,7 @@
 </p>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 <h2>Contatos</h2>
 <a href="https://api.whatsapp.com/send?phone=5548991226244" target="_blank"><img alt="whatsapp" height="30" width="40" src="https://www.svgrepo.com/show/110197/whatsapp.svg" /></a>
 <a href = "mailto:edsonservi@gmail.com" target="_blank"><img alt="gmail" height="30" width="40" src="https://www.svgrepo.com/show/223047/gmail.svg" /></a>
