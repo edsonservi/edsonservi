@@ -25,10 +25,13 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=edsonservi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonservi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<h2></h2>
 -->
-<div> 
-<a href = "mailto:edsonservi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/edsonservi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+<h2>Contatos</h2>
+<a href="https://api.whatsapp.com/send?phone=5548991226244" target="_blank"><img alt="whatsapp" height="30" width="40" src="https://www.svgrepo.com/show/110197/whatsapp.svg" /></a>
+<a href = "mailto:edsonservi@gmail.com" target="_blank"><img alt="gmail" height="30" width="40" src="https://www.svgrepo.com/show/223047/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/edsonservi/" target="_blank"><img alt="Linkedin" height="30" width="40" src="https://www.svgrepo.com/show/9911/linkedin.svg" /></a> 
  
 ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 </div>
