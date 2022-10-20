@@ -13,7 +13,6 @@
 <img align="center" alt="Edson-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </p>
 <br />
-<br />
 <p>E além de <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> também estudo e tenho conhecimento das seguintes tecnologias:</p>
 <br />
 <p>
@@ -29,8 +28,8 @@
 </p>
 </div>
 
-<div align="center">
 <h2>Contatos</h2>
+<div align="center">
 <a href="https://api.whatsapp.com/send?phone=5548991226244" target="_blank"><img alt="whatsapp" height="30" width="40" src="https://www.svgrepo.com/show/110197/whatsapp.svg" /></a>
 <a href = "mailto:edsonservi@gmail.com" target="_blank"><img alt="gmail" height="30" width="40" src="https://www.svgrepo.com/show/223047/gmail.svg" /></a>
 <a href="https://www.linkedin.com/in/edsonservi/" target="_blank"><img alt="Linkedin" height="30" width="40" src="https://www.svgrepo.com/show/9911/linkedin.svg" /></a> 
