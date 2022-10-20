@@ -32,7 +32,7 @@
 <div align="center">
 <a href="https://api.whatsapp.com/send?phone=5548991226244" target="_blank"><img alt="whatsapp" height="30" width="40" src="https://www.svgrepo.com/show/110197/whatsapp.svg" /></a>
 <a href = "mailto:edsonservi@gmail.com" target="_blank"><img alt="gmail" height="30" width="40" src="https://www.svgrepo.com/show/223047/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/edsonservi/" target="_blank"><img alt="Linkedin" height="30" width="40" src="https://www.svgrepo.com/show/9911/linkedin.svg" /></a> 
+<a href="https://www.linkedin.com/in/edsonservi/" target="_blank"><img alt="Linkedin" height="30" width="40" src="https://www.svgrepo.com/show/9911/linkedin.svg" target="_blank"/></a> 
  
 ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 </div>
