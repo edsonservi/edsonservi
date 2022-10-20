@@ -1,11 +1,10 @@
-<center>
-<div style="text-align: justify;">
+<div align='justify' style="text-align: justify;">
 <h1>Salve Salve </h1>
 <p>Edson Silva, Gaucho de Porto Alegre, refugiado do frio em Santa Catarina, passei por muitas 'ocupações' e na versão 4.0 em diante resolvi me 'redesenhar' dedicando a um hobby antigo, programação, um foco sério de estudo para uma nova carreira!</p>
 <p>Me encanta a área de desenvolvimento Back End, no entanto, gostaria de aprender Front-End visando virar Fullstack.</p>
 </div>
 
-<div style="text-align: center;">
+<div align='center' style="text-align: center;">
 <p>Atualmente estudo <strong><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></strong> com foco nas seguintes bibliotecas:</p>
 <p>
 <img align="center" alt="Django" height="30" width="40" src="https://cdn2.hubspot.net/hubfs/3885898/django.png" />
@@ -34,4 +33,3 @@
  
 ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 </div>
-</center>
