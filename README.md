@@ -13,7 +13,7 @@
 <img align="center" alt="Edson-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </p>
 <br />
-<p>E além de <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> também estudo e / ou tenho conhecimento em diferentes níveis) das seguintes tecnologias:</p>
+<p>E além de <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> também estudo e / ou tenho conhecimento (em diferentes níveis) das seguintes tecnologias:</p>
 <br />
 <p>
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
